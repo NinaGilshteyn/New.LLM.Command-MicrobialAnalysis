@@ -6,7 +6,7 @@
 
 This project runs a basic microbiome diversity analysis comparing two groups: **Healthy** and **Antibiotic-treated** samples. It produces a three-panel figure covering community composition, alpha diversity, and beta diversity.
 
-The current version uses synthetic data generated for learning and development purposes. Future versions will incorporate real experimental data.
+The current example uses synthetic data generated for learning and development purposes but this claude skill can be used on real data.
 
 ## Output
 
